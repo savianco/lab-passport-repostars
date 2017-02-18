@@ -1,0 +1,43 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#header {
+  background-color: #000;
+  padding: 13px;
+  border-radius: 9px;
+  color: white;
+  font-size: 29px;
+}
+
+#header > img {
+ display: inline;
+ width: 35px;
+ height:35px;
+}
+
+#header > a {
+  float: right;
+  margin-right: 10px;
+  font-size: 19px;
+  margin-top: -3px;
+}
+
+
+#profile-table {
+  border-bottom:0px !important;
+  margin-bottom: 0px;
+}
+
+#profile-table td {
+  border: 0px !important;
+}
+
+#repositories {
+  margin: auto;
+}
